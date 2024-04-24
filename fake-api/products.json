@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": 68,
+      "name": "informatica"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "heladera",
+      "cat": 68
+    },
+    {
+      "id": 1,
+      "name": "televisor",
+      "cat": 68
+    }
+  ]
+}
