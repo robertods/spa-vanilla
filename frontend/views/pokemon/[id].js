@@ -1,4 +1,4 @@
-export default function(root, [id]) {
+export default function(root, id) {
 
   console.log("params", id)
 
