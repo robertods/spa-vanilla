@@ -9,4 +9,5 @@ html, body {
 #app {
   border: 8px dashed red;
   height: 100vh;
+  overflow: auto;
 }
